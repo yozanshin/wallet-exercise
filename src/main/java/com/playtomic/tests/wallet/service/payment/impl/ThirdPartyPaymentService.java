@@ -1,7 +1,7 @@
-package com.playtomic.tests.wallet.service.impl;
+package com.playtomic.tests.wallet.service.payment.impl;
 
-import com.playtomic.tests.wallet.service.PaymentService;
-import com.playtomic.tests.wallet.service.PaymentServiceException;
+import com.playtomic.tests.wallet.service.payment.PaymentService;
+import com.playtomic.tests.wallet.service.payment.exceptions.PaymentServiceException;
 import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;
